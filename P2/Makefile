@@ -1,7 +1,7 @@
 # Configurações do Compilador
 CC = gcc
 CFLAGS = -Wall -Wextra -O2 -std=c11
-TARGET = p2
+TARGET = p2.o
 SRC = p2.c
 
 .PHONY: all run clean
